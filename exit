@@ -1,0 +1,48 @@
+[33mcommit 6511f32576a1b4c5d54572424a9282905e520d5c[m[33m ([m[1;36mHEAD -> [m[1;32mrebase[m[33m)[m
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Wed Jul 5 11:51:56 2023 -0300
+
+    Rebase branch
+
+[33mcommit 7c25a9c916ec3a83309005e3d3b7c32168c200fa[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 5a07573 d0c7726
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Wed Jul 5 11:45:16 2023 -0300
+
+    Merge branch 'leonardo'
+
+[33mcommit 5a07573f8f31c93d80a2c266809c09c53454d985[m
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Wed Jul 5 11:43:21 2023 -0300
+
+    git merge branch main
+
+[33mcommit d0c77261d94abcd3d7aab67afac71989a50a7ebc[m[33m ([m[1;32mleonardo[m[33m)[m
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Wed Jul 5 11:41:21 2023 -0300
+
+    git merge
+
+[33mcommit d309f4bf06bcd3b8383d18334f22e009e2a58495[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Tue Jul 4 11:22:17 2023 -0300
+
+    alteração dev2
+
+[33mcommit 6f2eafb63ea12bf22627bd6cf338ec51f8a57fb8[m
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Tue Jul 4 10:55:18 2023 -0300
+
+    Alterando o arquivo readme.md
+
+[33mcommit ff62aa2fe903996d9f22b28045dbfef378b50544[m
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Mon Jul 3 18:37:11 2023 -0300
+
+    Alterando o arquivo
+
+[33mcommit b7f430cc08c7ec257b7e609d57247c630636aed7[m
+Author: ltrodrigues <ltrodrigues28@gmail.com>
+Date:   Wed Jun 28 20:09:09 2023 -0300
+
+    Readme.md
